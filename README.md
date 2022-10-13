@@ -7,4 +7,4 @@ The extension automatically calculates shipping charges on the basis of the weig
 
 Easy integration and best shipping service are only possible with Magento 2 Purolator Shipping!
 
-For more info, visit : https://soundcloud.com/mansi-bhadani/magento-2-purolator-shipping?si=f487570f8eab40dcb4dad5c45b2c1c9f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+For more info, visit : https://soundcloud.com/mansi-bhadani/magento-2-purolator-shipping
